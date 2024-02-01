@@ -1,5 +1,5 @@
 0.1
 119.0
 False
-Update_1.txt
+CV_Tech.exe ----- Login.exe
 CV_Tech_OW_Installateur.exe
